@@ -16,8 +16,8 @@ In my spare time I enjoy to cook delicious food 🍕, go for mountain bike rides
 
 Thanks for visiting and I'd to love to connect!
 
-<img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=philprime&show_icons=true" />
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=philprime&layout=compact&langs_count=8" />
+<img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=philprime&show_icons=true" />
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=philprime&layout=compact&langs_count=8" />
 
 ## 𝙳𝚊𝚒𝚕𝚢 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 
