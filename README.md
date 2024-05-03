@@ -1,36 +1,62 @@
-# Hi, I'm Phil
-and I am a Creator
+# 👋 𝙷𝚒, 𝙸'𝚖 𝙿𝚑𝚒𝚕
 
-## About me
+[![Wakatime](https://wakatime.com/badge/user/23e7cc54-6314-41ec-a64a-d4ff42a5c518.svg?style=for-the-badge)](https://wakatime.com/@23e7cc54-6314-41ec-a64a-d4ff42a5c518)
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/philprime)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philipniedertscheider/)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/philprimes?style=for-the-badge&logo=x)](https://x.com/philprimes)
+[![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.com/philprimes)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://philprime.medium.com/)
+[![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://philprime.dev/feed.xml)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3515302?style=for-the-badge&logo=stackoverflow&logoColor=white&label=STACKOVERFLOW)
 
-I do software development
+Welcome to my profile! I'm an open source software advocate, startup co-founder and CTO at @ [kula.app](https://kula.app).
+I started professional software development around 2013 and never stopped ever since.
 
-## Projects
+In my spare time I enjoy to cook delicious food 🍕, go for mountain bike rides 🚲, watch F1 🏎️ and to learn Japanese 🇯🇵
 
-Here is an index of some of my OSS projects:
+Thanks for visiting and I'd to love to connect!
 
-### Private Projects
+<img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=philprime&show_icons=true" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=philprime&layout=compact&langs_count=8" />
 
-| Name                                                | Description                                       | Build Status | Documentation % | Test Coverage % |
-|-----------------------------------------------------|---------------------------------------------------|--------------|-----------------|-----------------|
-| [Flow](https://github.com/philprime/Flow)           | Functional programming in Swift                   | [![CI](https://github.com/philprime/Flow/workflows/Build,%20Lint%20&%20Test/badge.svg)](https://github.com/philprime/Flow/actions)       | [![Documentation](https://raw.githubusercontent.com/philprime/Flow/gh-pages/badge.svg)](https://philprime.github.io/Flow)            | [![codecov](https://codecov.io/gh/philprime/Flow/branch/main/graph/badge.svg)](https://codecov.io/gh/philprime/Flow) |
-| [Cabinet](https://github.com/philprime/Cabinet)     | Swift utilities                                   | [![CI](https://github.com/philprime/Cabinet/workflows/Build,%20Lint%20&%20Test/badge.svg)](https://github.com/philprime/Cabinet/actions) | [![Documentation](https://raw.githubusercontent.com/philprime/Cabinet/gh-pages/badge.svg)](https://philprime.github.io/Cabinet)      | [![codecov](https://codecov.io/gh/philprime/Cabinet/branch/main/graph/badge.svg)](https://codecov.io/gh/philprime/Cabinet) |
-| [Phrase](https://github.com/philprime/Phrase)       | Boolean expression evaluator                      | [![CI](https://github.com/philprime/Phrase/workflows/Build,%20Lint%20&%20Test/badge.svg)](https://github.com/philprime/Phrase/actions)       | [![Documentation](https://raw.githubusercontent.com/philprime/Phrase/gh-pages/badge.svg)](https://philprime.github.io/Phrase)        | [![codecov](https://codecov.io/gh/philprime/Phrase/branch/main/graph/badge.svg)](https://codecov.io/gh/philprime/Phrase) |
-| [Stencil](https://github.com/philprime/Stencil)     | Swift(y) regex handling                           | [![CI](https://github.com/philprime/Stencil/workflows/Build,%20Lint%20&%20Test/badge.svg)](https://github.com/philprime/Stencil/actions)     | [![Documentation](https://raw.githubusercontent.com/philprime/Stencil/gh-pages/badge.svg)](https://philprime.github.io/Stencil)      | [![codecov](https://codecov.io/gh/philprime/Stencil/branch/main/graph/badge.svg)](https://codecov.io/gh/philprime/Stencil) |
-| [Rainbow](https://github.com/philprime/Rainbow)     | Cross-Plattform colors in Swift                   | [![CI](https://github.com/philprime/Rainbow/workflows/Build,%20Lint%20&%20Test/badge.svg)](https://github.com/philprime/Rainbow/actions)     | [![Documentation](https://raw.githubusercontent.com/philprime/Rainbow/gh-pages/badge.svg)](https://philprime.github.io/Rainbow)      | [![codecov](https://codecov.io/gh/philprime/Rainbow/branch/main/graph/badge.svg)](https://codecov.io/gh/philprime/Rainbow) |
-| [Inspector](https://github.com/philprime/Inspector) | Swift(y) file handling                            | [![CI](https://github.com/philprime/Inspector/workflows/Build,%20Lint%20&%20Test/badge.svg)](https://github.com/philprime/Inspector/actions) | [![Documentation](https://raw.githubusercontent.com/philprime/Inspector/gh-pages/badge.svg)](https://philprime.github.io/Inspector)      | [![codecov](https://codecov.io/gh/philprime/Inspector/branch/main/graph/badge.svg)](https://codecov.io/gh/philprime/Inspector) |
-| [Snek](https://github.com/philprime/Snek)           | VIPER pattern interfaces                          | [![CI](https://github.com/philprime/Snek/workflows/Build,%20Lint%20&%20Test/badge.svg)](https://github.com/philprime/Snek/actions) | [![Documentation](https://raw.githubusercontent.com/philprime/Snek/gh-pages/badge.svg)](https://philprime.github.io/Snek)      | [![codecov](https://codecov.io/gh/philprime/Snek/branch/main/graph/badge.svg)](https://codecov.io/gh/philprime/Snek) |
-| [Charty](https://github.com/philprime/Charty)       | Strongly typed GraphQL Client for Swift + Combine | [![CI](https://github.com/philprime/Charty/workflows/Build,%20Lint%20&%20Test/badge.svg)](https://github.com/philprime/Charty/actions) | [![Documentation](https://raw.githubusercontent.com/philprime/Charty/gh-pages/badge.svg)](https://philprime.github.io/Charty)      | [![codecov](https://codecov.io/gh/philprime/Charty/branch/main/graph/badge.svg)](https://codecov.io/gh/philprime/Charty) |
-| [Harbour](https://github.com/philprime/Harbour)     | Cross-Plattform Low-Level Sockets in Swift        | [![CI](https://github.com/philprime/Harbour/workflows/Build,%20Lint%20&%20Test/badge.svg)](https://github.com/philprime/Harbour/actions) | [![Documentation](https://raw.githubusercontent.com/philprime/Harbour/gh-pages/badge.svg)](https://philprime.github.io/Harbour)      | [![codecov](https://codecov.io/gh/philprime/Harbour/branch/main/graph/badge.svg)](https://codecov.io/gh/philprime/Harbour) |
+## 𝙳𝚊𝚒𝚕𝚢 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 
-### Projects @ techprimate
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-| Name                                                | Description                                       | Build Status | Documentation % | Test Coverage % |
-|-----------------------------------------------------|---------------------------------------------------|--------------|-----------------|-----------------|
-| [TPPDF](https://github.com/techprimate/TPPDF)       | Advanced PDF Generator in Swift                   | [![CI](https://travis-ci.org/techprimate/TPPDF.svg?branch=master&style=flat-square)](https://travis-ci.org/techprimate/TPPDF)            | [![Documentation](https://raw.githubusercontent.com/techprimate/TPPDF/gh-pages/docs/badge.svg)](https://techprimate.github.io/TPPDF) | [![codecov](https://codecov.io/gh/Techprimate/TPPDF/branch/master/graph/badge.svg)](https://codecov.io/gh/techprimate/TPPDF) |
+## 𝚂𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
 
-### Projects @ kula
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-| Name                                                | Description                                       | Build Status | Documentation % | Test Coverage % |
-|-----------------------------------------------------|---------------------------------------------------|--------------|-----------------|-----------------|
-| [Postie](https://github.com/kula-app/Postie)       | Structured HTTP Client using Combine                   | [![CI](https://github.com/kula-app/Postie/workflows/Build,%20Lint%20&%20Test/badge.svg)](https://travis-ci.org/kula-app/Postie)            | [![Documentation](https://raw.githubusercontent.com/kula-app/Postie/gh-pages/badge.svg)](https://kula-app.github.io/Postie) | [![codecov](https://codecov.io/gh/kula-app/Postie/branch/main/graph/badge.svg)](https://codecov.io/gh/kula-app/Postie) |
+## 𝙼𝚢 𝚖𝚘𝚜𝚝 𝚙𝚘𝚙𝚞𝚕𝚊𝚛 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+
+Here are some of the projects I am leading, maintaining or simply being involved with!
+
+[![techprimate/TPPDF](https://github-readme-stats.vercel.app/api/pin/?username=techprimate&repo=TPPDF&show_owner=true)](https://github.com/techprimate/TPPDF)
+
+[![kula-app/Postie](https://github-readme-stats.vercel.app/api/pin/?username=kula-app&repo=Postie&show_owner=true)](https://github.com/kula-app/Postie)
+
+[![kula-app/OnLaunch](https://github-readme-stats.vercel.app/api/pin/?username=kula-app&repo=OnLaunch&show_owner=true)](https://github.com/kula-app/OnLaunch)
