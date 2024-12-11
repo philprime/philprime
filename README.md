@@ -9,7 +9,7 @@
 [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://philprime.dev/feed.xml)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3515302?style=for-the-badge&logo=stackoverflow&logoColor=white&label=STACKOVERFLOW)
 
-Welcome to my profile! I'm an open source software advocate, startup co-founder and CTO at @ [kula.app](https://kula.app).
+Welcome to my profile! I'm an open source software advocate, senior software engineer at [Sentry.io](https://github.com/getsentry), technical founder at [kula.app](https://github.com/kula-app) and technical founder at [techprimate.com](https://github.com/techprimate).
 I started professional software development around 2013 and never stopped ever since.
 
 In my spare time I enjoy to cook delicious food 🍕, go for mountain bike rides 🚲, watch F1 🏎️ and to learn Japanese 🇯🇵
