@@ -50,13 +50,3 @@ Thanks for visiting and I'd to love to connect!
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
-## 𝙼𝚢 𝚖𝚘𝚜𝚝 𝚙𝚘𝚙𝚞𝚕𝚊𝚛 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
-
-Here are some of the projects I am leading, maintaining or simply being involved with!
-
-[![techprimate/TPPDF](https://github-readme-stats.vercel.app/api/pin/?username=techprimate&repo=TPPDF&show_owner=true)](https://github.com/techprimate/TPPDF)
-
-[![kula-app/Postie](https://github-readme-stats.vercel.app/api/pin/?username=kula-app&repo=Postie&show_owner=true)](https://github.com/kula-app/Postie)
-
-[![kula-app/OnLaunch](https://github-readme-stats.vercel.app/api/pin/?username=kula-app&repo=OnLaunch&show_owner=true)](https://github.com/kula-app/OnLaunch)
