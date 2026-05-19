@@ -52,6 +52,11 @@ Thanks for visiting and I'd to love to connect!
 - [kula-app/containers](https://github.com/kula-app/containers) - Library of reusable container images for deployment and CI/CD
 - [objc-msg-analyzer](https://github.com/philprime/objc-msg-analyzer) - Swift tool designed to capture and analyze Objective-C message sends during code execution
 
+### 𝙶𝚞𝚒𝚍𝚎𝚜
+
+- [Building a production-ready Kubernetes cluster from scratch](https://philprime.dev/guides/building-a-production-ready-kubernetes-cluster-from-scratch) - From a couple of Raspberry Pis to a working homelab cluster with production-readiness in mind
+- [Migrating from k3s to RKE2](https://philprime.dev/guides/migrating-k3s-to-rke2) - Setting up Hetzner dedicated servers as a production-ready Kubernetes cluster
+
 ## 𝚂𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
