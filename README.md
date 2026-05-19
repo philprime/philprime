@@ -25,7 +25,34 @@ Thanks for visiting and I'd to love to connect!
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 𝚂𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
+## 𝙼𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+
+### 𝚂𝚎𝚛𝚟𝚒𝚌𝚎𝚜 𝚊𝚗𝚍 𝚊𝚙𝚙𝚜
+
+- [philprime.dev](https://philprime.dev) - Comprehensive technical guides for infrastructure operations with Kubernetes and general development
+- [appmetadata.com](https://appmetadata.com) - Stable API service for searching and fetching public App Store metadata
+- [shipable.dev](https://shipable.dev) - Distributed service to generate, build and ship mobile apps at scale
+- [Flinky](https://github.com/techprimate/Flinky) - Open source native mobile app for iOS to organize and share links in-person
+- [flinky.me](https://flinky.me) - Dynamic landing page for mobile app Flinky, powered by appmetadata.com, built with Astro.js
+
+### 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 𝚊𝚗𝚍 𝚕𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜
+
+- [go-health](https://github.com/kula-app/go-health) - Go library for serving standardized HTTP health-check endpoints
+- [Postie](https://github.com/kula-app/Postie) - Structed HTTP API clients in Swift
+- [TPPDF](https://github.com/techprimate/TPPDF) - PDF document builder framework for iOS and macOS
+
+### 𝚃𝚘𝚘𝚕𝚒𝚗𝚐
+
+- [gha-runner-autoscaler-controller](https://github.com/kula-app/gha-runner-autoscaler-controller) - Kubernetes controller that dynamically adjusts GitHub Actions Runner Controller (ARC) maximal runners based on available cluster capacity.
+- [wait-for-services-action](https://github.com/kula-app/wait-for-services-action) - GitHub Action to wait for services to be ready for use
+- [clean-cache-action](https://github.com/kula-app/clean-cache-action) - GitHub Action to clean up stale GitHub Actions cache
+- [has-changed-path](https://github.com/kula-app/has-changed-path) - GitHub Action fork of `MarceloPrado/has-changed-path` to detect file changes in pull requests for selective workflows
+- [github-actions-utils-cli](https://github.com/techprimate/github-actions-utils-cli) - Proof-of-concept MCP CLI for working with GitHub Actions
+- [ship](https://github.com/kula-app/ship) - CLI for working with shipable.dev
+- [kula-app/containers](https://github.com/kula-app/containers) - Library of reusable container images for deployment and CI/CD
+- [objc-msg-analyzer](https://github.com/philprime/objc-msg-analyzer) - Swift tool designed to capture and analyze Objective-C message sends during code execution
+
+## 𝚂𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
