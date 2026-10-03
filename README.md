@@ -9,19 +9,19 @@
 [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://philprime.dev/feed.xml)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3515302?style=for-the-badge&logo=stackoverflow&logoColor=white&label=STACKOVERFLOW)
 
-I'm a senior software engineer on [Sentry's mobile SDK](https://github.com/getsentry/sentry-cocoa) and a technical co-founder of [kula.app](https://github.com/kula-app) and [techprimate](https://github.com/techprimate). I've built software professionally since 2013, spanning iOS, developer tools, and infrastructure.
+Welcome to my profile! I'm an open-source advocate, senior software engineer at [Sentry.io](https://github.com/getsentry), and technical founder at [kula.app](https://github.com/kula-app) and [techprimate.com](https://github.com/techprimate). I started professional software development around 2013 and haven't stopped since.
 
 ## Highlights
 
-- **Mobile SDKs:** I work on the [Sentry Cocoa SDK](https://github.com/getsentry/sentry-cocoa), including Session Replay, metrics, and performance.
-- **Apple developer tools:** I build [apple-docs-cli](https://github.com/techprimate/apple-docs-cli) to make Apple API documentation accessible from the terminal and coding agents.
-- **Swift performance:** I built [Twill](https://github.com/philprime/Twill), a terminal UI framework with an event-driven run loop designed from scratch, drawing on the same performance principles I use in iOS development.
-- **Swift open source:** I maintain [TPPDF](https://github.com/techprimate/TPPDF), a PDF framework for iOS and macOS with over 800 GitHub stars.
-- **Infrastructure:** I build [iris](https://github.com/philprime/iris), a Kubernetes controller for routing inbound email to in-cluster services.
+At Sentry, I work on the [Cocoa SDK](https://github.com/getsentry/sentry-cocoa), including Session Replay, metrics, and performance. I also maintain [TPPDF](https://github.com/techprimate/TPPDF), a Swift PDF framework for iOS and macOS with over 800 GitHub stars.
 
-Need help with mobile SDKs, developer tools, or infrastructure? [Reach out on LinkedIn](https://www.linkedin.com/in/philipniedertscheider/).
+I built [apple-docs-cli](https://github.com/techprimate/apple-docs-cli) to bring Apple Developer documentation to the terminal and coding agents, and [Twill](https://github.com/philprime/Twill), a Swift terminal UI framework with an event-driven run loop built from scratch. Twill draws on the same performance principles I use in iOS development.
 
-Outside of software, I enjoy cooking 🍕, mountain biking 🚲, F1 🏎️, and learning Japanese 🇯🇵.
+For infrastructure, I build [iris](https://github.com/philprime/iris), a Kubernetes controller that routes inbound email to in-cluster services.
+
+In my spare time I enjoy cooking delicious food 🍕, mountain biking 🚲, watching F1 🏎️, and learning Japanese 🇯🇵.
+
+Thanks for visiting! I'd love to connect. If you need help with mobile SDKs, developer tools, or infrastructure, [reach out on LinkedIn](https://www.linkedin.com/in/philipniedertscheider/).
 
 ## 𝙳𝚊𝚒𝚕𝚢 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 
