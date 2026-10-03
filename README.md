@@ -11,17 +11,11 @@
 
 Welcome to my profile! I'm an open-source advocate, senior software engineer at [Sentry.io](https://github.com/getsentry), and technical founder at [kula.app](https://github.com/kula-app) and [techprimate.com](https://github.com/techprimate). I started professional software development around 2013 and haven't stopped since.
 
-## Highlights
-
-At Sentry, I work on the [Cocoa SDK](https://github.com/getsentry/sentry-cocoa), including Session Replay, metrics, and performance. I also maintain [TPPDF](https://github.com/techprimate/TPPDF), a Swift PDF framework for iOS and macOS with over 800 GitHub stars.
-
-I built [apple-docs-cli](https://github.com/techprimate/apple-docs-cli) to bring Apple Developer documentation to the terminal and coding agents, and [Twill](https://github.com/philprime/Twill), a Swift terminal UI framework with an event-driven run loop built from scratch. Twill draws on the same performance principles I use in iOS development.
-
-For infrastructure, I build [iris](https://github.com/philprime/iris), a Kubernetes controller that routes inbound email to in-cluster services.
+I work across mobile SDKs, Swift developer tools, and infrastructure. If you could use that experience, [reach out on LinkedIn](https://www.linkedin.com/in/philipniedertscheider/).
 
 In my spare time I enjoy cooking delicious food 🍕, mountain biking 🚲, watching F1 🏎️, and learning Japanese 🇯🇵.
 
-Thanks for visiting! I'd love to connect. If you need help with mobile SDKs, developer tools, or infrastructure, [reach out on LinkedIn](https://www.linkedin.com/in/philipniedertscheider/).
+Thanks for visiting! I'd love to connect.
 
 ## 𝙳𝚊𝚒𝚕𝚢 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 
@@ -44,6 +38,8 @@ Thanks for visiting! I'd love to connect. If you need help with mobile SDKs, dev
 
 ### 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 𝚊𝚗𝚍 𝚕𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜
 
+- [Sentry Cocoa SDK](https://github.com/getsentry/sentry-cocoa) - Apple platform SDK where I work on Session Replay, metrics, and performance
+- [Twill](https://github.com/philprime/Twill) - Swift terminal UI framework with an event-driven run loop built from scratch
 - [go-health](https://github.com/kula-app/go-health) - Go library for serving standardized HTTP health-check endpoints
 - [Postie](https://github.com/kula-app/Postie) - Structed HTTP API clients in Swift
 - [TPPDF](https://github.com/techprimate/TPPDF) - PDF document builder framework for iOS and macOS
@@ -55,6 +51,7 @@ Thanks for visiting! I'd love to connect. If you need help with mobile SDKs, dev
 
 ### 𝚃𝚘𝚘𝚕𝚒𝚗𝚐
 
+- [apple-docs-cli](https://github.com/techprimate/apple-docs-cli) - CLI for exploring Apple Developer documentation from the terminal and coding agents
 - [wait-for-services-action](https://github.com/kula-app/wait-for-services-action) - GitHub Action to wait for services to be ready for use
 - [clean-cache-action](https://github.com/kula-app/clean-cache-action) - GitHub Action to clean up stale GitHub Actions cache
 - [has-changed-path](https://github.com/kula-app/has-changed-path) - GitHub Action fork of `MarceloPrado/has-changed-path` to detect file changes in pull requests for selective workflows
