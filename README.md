@@ -9,12 +9,13 @@
 [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://philprime.dev/feed.xml)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3515302?style=for-the-badge&logo=stackoverflow&logoColor=white&label=STACKOVERFLOW)
 
-Welcome to my profile! I'm an open source software advocate, senior software engineer at [Sentry.io](https://github.com/getsentry), technical founder at [kula.app](https://github.com/kula-app) and technical founder at [techprimate.com](https://github.com/techprimate).
-I started professional software development around 2013 and never stopped ever since.
+Welcome to my profile! I'm an open-source advocate, senior software engineer at [Sentry.io](https://github.com/getsentry), and technical founder at [kula.app](https://github.com/kula-app) and [techprimate.com](https://github.com/techprimate). I started professional software development around 2013 and haven't stopped since.
 
-In my spare time I enjoy to cook delicious food 🍕, go for mountain bike rides 🚲, watch F1 🏎️ and to learn Japanese 🇯🇵
+I work across mobile SDKs, Swift developer tools, and infrastructure. If you could use that experience, [reach out on LinkedIn](https://www.linkedin.com/in/philipniedertscheider/).
 
-Thanks for visiting and I'd to love to connect!
+In my spare time I enjoy cooking delicious food 🍕, mountain biking 🚲, watching F1 🏎️, and learning Japanese 🇯🇵.
+
+Thanks for visiting! I'd love to connect.
 
 ## 𝙳𝚊𝚒𝚕𝚢 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 
@@ -37,6 +38,8 @@ Thanks for visiting and I'd to love to connect!
 
 ### 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 𝚊𝚗𝚍 𝚕𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜
 
+- [Sentry Cocoa SDK](https://github.com/getsentry/sentry-cocoa) - I help build Sentry's SDK for crash reporting and app performance monitoring on Apple platforms
+- [Twill](https://github.com/philprime/Twill) - Swift terminal UI framework with an event-driven run loop built from scratch
 - [go-health](https://github.com/kula-app/go-health) - Go library for serving standardized HTTP health-check endpoints
 - [Postie](https://github.com/kula-app/Postie) - Structed HTTP API clients in Swift
 - [TPPDF](https://github.com/techprimate/TPPDF) - PDF document builder framework for iOS and macOS
@@ -48,6 +51,7 @@ Thanks for visiting and I'd to love to connect!
 
 ### 𝚃𝚘𝚘𝚕𝚒𝚗𝚐
 
+- [apple-docs-cli](https://github.com/techprimate/apple-docs-cli) - CLI for exploring Apple Developer documentation from the terminal and coding agents
 - [wait-for-services-action](https://github.com/kula-app/wait-for-services-action) - GitHub Action to wait for services to be ready for use
 - [clean-cache-action](https://github.com/kula-app/clean-cache-action) - GitHub Action to clean up stale GitHub Actions cache
 - [has-changed-path](https://github.com/kula-app/has-changed-path) - GitHub Action fork of `MarceloPrado/has-changed-path` to detect file changes in pull requests for selective workflows
