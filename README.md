@@ -38,7 +38,7 @@ Thanks for visiting! I'd love to connect.
 
 ### 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 𝚊𝚗𝚍 𝚕𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜
 
-- [Sentry Cocoa SDK](https://github.com/getsentry/sentry-cocoa) - Apple platform SDK where I work on Session Replay, metrics, and performance
+- [Sentry Cocoa SDK](https://github.com/getsentry/sentry-cocoa) - I help build Sentry's SDK for crash reporting and app performance monitoring on Apple platforms
 - [Twill](https://github.com/philprime/Twill) - Swift terminal UI framework with an event-driven run loop built from scratch
 - [go-health](https://github.com/kula-app/go-health) - Go library for serving standardized HTTP health-check endpoints
 - [Postie](https://github.com/kula-app/Postie) - Structed HTTP API clients in Swift
