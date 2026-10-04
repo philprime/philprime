@@ -10,20 +10,13 @@
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3515302?style=for-the-badge&logo=stackoverflow&logoColor=white&label=STACKOVERFLOW)
 
 Welcome to my profile! I'm an open source software advocate, senior software engineer at [Sentry.io](https://github.com/getsentry), technical founder at [kula.app](https://github.com/kula-app) and technical founder at [techprimate.com](https://github.com/techprimate).
+My main daily work revolves around maintaining the [Sentry Apple SDK](https://github.com/getsentry/sentry-cocoa) for Apple's platforms.
+I'm also really into Kubernetes and cloud infrastructure, exploring capabilities and best practices for scalable and reliable systems using custom controllers and automation.
 I started professional software development around 2013 and never stopped ever since.
 
 In my spare time I enjoy to cook delicious food 🍕, go for mountain bike rides 🚲, watch F1 🏎️ and to learn Japanese 🇯🇵
 
-Thanks for visiting and I'd to love to connect!
-
-## 𝙳𝚊𝚒𝚕𝚢 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+Thanks for visiting! If you need support or consulting with app development for Apple platforms, SDK engineering, scalable cloud architectures using Kubernetes, or designing automation platforms, [let's connect on LinkedIn](https://www.linkedin.com/in/philipniedertscheider/).
 
 ## 𝙼𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
@@ -34,12 +27,14 @@ Thanks for visiting and I'd to love to connect!
 - [shipable.dev](https://shipable.dev) - Distributed service to generate, build and ship mobile apps at scale
 - [Flinky](https://github.com/techprimate/Flinky) - Open source native mobile app for iOS to organize and share links in-person
 - [flinky.me](https://flinky.me) - Dynamic landing page for mobile app Flinky, powered by appmetadata.com, built with Astro.js
+- [OnLaunch](https://github.com/kula-app/OnLaunch) - Service for notifying app users about updates, warnings and maintenance
 
 ### 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 𝚊𝚗𝚍 𝚕𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜
 
 - [go-health](https://github.com/kula-app/go-health) - Go library for serving standardized HTTP health-check endpoints
 - [Postie](https://github.com/kula-app/Postie) - Structed HTTP API clients in Swift
 - [TPPDF](https://github.com/techprimate/TPPDF) - PDF document builder framework for iOS and macOS
+- [Twill](https://github.com/philprime/Twill) - Swift library for building interactive terminal user interfaces
 
 ### 𝙸𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎
 
@@ -55,11 +50,21 @@ Thanks for visiting and I'd to love to connect!
 - [ship](https://github.com/kula-app/ship) - CLI for working with shipable.dev
 - [kula-app/containers](https://github.com/kula-app/containers) - Library of reusable container images for deployment and CI/CD
 - [objc-msg-analyzer](https://github.com/philprime/objc-msg-analyzer) - Swift tool designed to capture and analyze Objective-C message sends during code execution
+- [apple-docs-cli](https://github.com/techprimate/apple-docs-cli) - CLI for browsing and searching Apple Developer documentation
 
 ### 𝙶𝚞𝚒𝚍𝚎𝚜
 
 - [Building a production-ready Kubernetes cluster from scratch](https://philprime.dev/guides/building-a-production-ready-kubernetes-cluster-from-scratch) - From a couple of Raspberry Pis to a working homelab cluster with production-readiness in mind
 - [Migrating from k3s to RKE2](https://philprime.dev/guides/migrating-k3s-to-rke2) - Setting up Hetzner dedicated servers as a production-ready Kubernetes cluster
+
+## 𝙳𝚊𝚒𝚕𝚢 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 𝚂𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
 
