@@ -43,6 +43,7 @@ Thanks for visiting! If you need support or consulting with app development for 
 
 ### 𝚃𝚘𝚘𝚕𝚒𝚗𝚐
 
+- [diagnostics-action](https://github.com/philprime/diagnostics-action) - Container-free CI diagnostics for macOS and Linux
 - [wait-for-services-action](https://github.com/kula-app/wait-for-services-action) - GitHub Action to wait for services to be ready for use
 - [clean-cache-action](https://github.com/kula-app/clean-cache-action) - GitHub Action to clean up stale GitHub Actions cache
 - [has-changed-path](https://github.com/kula-app/has-changed-path) - GitHub Action fork of `MarceloPrado/has-changed-path` to detect file changes in pull requests for selective workflows
